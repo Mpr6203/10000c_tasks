@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MPR Resume</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2rem; }
+    header, section, footer { margin-bottom: 1.5rem; }
+    h1, h2 { color: #333; }
+    ul { list-style-type: none; padding: 0; }
+    .contact a { text-decoration: none; color: #555; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Myakala Prakash Raju</h1>
+    <p class="contact">
+      📞 +91 9550265369 | 📧 <a href="mailto:mprakashraju6203@gmail.com">mprakashraju6203@gmail.com</a><br>
+      💼 <a href="https://linkedin.com/in/myakala-prakash-raju">LinkedIn</a> |
+      🛠️ <a href="https://github.com/Mpr6203">GitHub</a>
+    </p>
+  </header>
+
+  <section>
+    <h2>🎓 Education</h2>
+    <p>Sreenidhi Institute of Science and Technology</p>
+    <p>B.Tech in Computer Science and Engineering (Cyber Security)</p>
+  </section>
+
+  <section>
+    <h2>🪖 Experience</h2>
+    <h3>NCC Senior Division Cadet (Corporal Rank)</h3>
+    <p>National Cadet Corps - SNIST 2TBn Army Wing</p>
+    <p>Ghatkesar, Hyderabad | Oct 2022 – Feb 2025</p>
+    <ul>
+      <li>Trained and mentored junior cadets</li>
+      <li>Organized and managed college and city-level NCC events</li>
+      <li>Developed leadership, discipline, and physical fitness</li>
+      <li>Achieved 'B' and 'C' Certificates</li>
+      <li>Participated in social service initiatives</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>💻 Project: Simple Resume Builder App</h2>
+    <ul>
+      <li>Used HTML, CSS, JavaScript for form handling and validation</li>
+      <li>Built responsive design for mobile and desktop views</li>
+      <li>Implemented live preview and downloadable resume generation</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🧠 Technical Skills</h2>
+    <ul>
+      <li>Languages: C, HTML, CSS, JavaScript, Python, SQL</li>
+      <li>Tools: VS Code, GitHub</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Thank you for reviewing my resume 🙏</p>
+  </footer>
+
+</body>
+</html>
